@@ -1,0 +1,136 @@
+                                       ASWIN E​
+                Kozhikode, Kerala • +91 9946943642 • aswinellath1@gmail.com​
+                             linkedin.com/in/aswin-e-85b2b7131​
+                                    github.com/Aswinellath
+
+
+
+
+Quality Analyst - Test Automation
+Engineer
+Professional Summary
+Quality Analyst with over 2 years of experience in both manual and automation testing, with
+hands-on expertise in Playwright, Selenium, and Postman. Proven ability to build scalable test
+frameworks, manage defect tracking through JIRA, and streamline QA processes using CI/CD
+pipelines. Demonstrated success in identifying over 2,000 defects, resulting in significant
+improvements in product quality and testing efficiency.
+
+
+
+
+Experience
+Quality Analyst
+
+Midnay Tech Private Limited, Kozhikode​
+April 2023 – Present
+
+   ●​ Developed and executed over 500 test cases, identifying 2,143 defects and contributing
+      to a 30% improvement in overall product quality.​
+
+   ●​ Automated repetitive testing scenarios using Python, significantly reducing manual
+      workload and enhancing test efficiency.​
+
+   ●​ Designed and executed JavaScript-based UI test scripts to ensure responsive and
+      cross-browser compatible web applications.​
+
+   ●​ Performed comprehensive API testing with Postman, ensuring functional integrity,
+      performance benchmarks, and security compliance.​
+   ●​ Improved defect resolution turnaround by 18% through rigorous JIRA-based tracking and
+      detailed documentation.​
+
+   ●​ Led the implementation of AI-enhanced automation tools, increasing test coverage and
+      optimizing QA workflows.​
+
+   ●​ Collaborated closely with UI/UX and development teams to align software functionality
+      with business objectives and improve user experience.​
+
+   ●​ Mentored junior QA analysts in manual, automated, and AI-powered testing approaches
+      to establish consistent QA standards.​
+
+   ●​ Developed and maintained end-to-end automated test scripts using Playwright,
+      ensuring compatibility across Chromium, Firefox, and WebKit.​
+
+   ●​ Integrated Playwright test suites into CI/CD pipelines using GitHub Actions, enabling
+      efficient and reliable nightly regression testing.​
+
+   ●​ Enhanced regression testing speed by 40% and increased coverage of critical UI/UX
+      paths.​
+
+
+
+Quality Analyst (Apprenticeship)
+
+Midnay Tech Private Limited​
+December 2022 – April 2023
+
+   ●​ Built the company's QA framework from the ground up, standardizing manual testing
+      processes.​
+
+   ●​ Introduced JIRA for streamlined defect tracking and interdepartmental issue resolution.​
+
+   ●​ Coordinated with product and development teams to ensure high-quality software
+      delivery through exhaustive manual testing.​
+
+
+
+
+Technical Skills
+   ●​ Testing Tools: Selenium, Playwright, TestNG, Postman​
+
+   ●​ Defect Tracking: JIRA​
+
+   ●​ Programming Languages: Java, Python, SQL​
+   ●​ Development Practices: Agile Methodologies, CI/CD (GitHub Actions), Manual Testing​
+
+   ●​ Web Technologies: HTML5, CSS3​
+
+
+
+
+Education
+Bachelor of Technology in Electronics and Communication Engineering​
+Amal Jyothi College of Engineering, Kanjirappally​
+August 2014 – August 2018
+
+   ●​ Specialized in circuit design and embedded systems, gaining hands-on experience in
+      hardware-software integration.​
+
+   ●​ Received Innovation Hub funding for a project demonstrating entrepreneurship and
+      teamwork.​
+
+
+Intermediate (10+2)​
+ St. Paul’s Public School, Thrissur (CBSE)​
+ August 2012 – August 2014
+
+
+
+
+Certifications
+   ●​ Foundation Course on Software Testing – Stanford University (Nov 2024)​
+
+   ●​ Software Testing – LinkedIn Learning (Jan 2024)​
+
+   ●​ SQL – Codecademy (Nov 2022)​
+
+   ●​ Software Testing Specialist – NACTET (Dec 2022, Grade: A+)​
+
+
+
+
+Awards and Achievements
+   ●​ Engineering Excellence Award – Marian College of Engineering​
+
+   ●​ FACT (Forensic Aptitude and Caliber Test) Certification​
+ ●​ Certified Fiber Optics Specialist – BSNL​
+
+ ●​ Innovation Hub Project Grant – Amal Jyothi College of Engineering​
+
+
+
+
+Languages
+ ●​ English: Fluent​
+
+ ●​ Malayalam: Advanced​
+
