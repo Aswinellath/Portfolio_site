@@ -690,6 +690,7 @@ section {
     border-radius: var(--border-radius);
     box-shadow: var(--shadow-md);
     transition: var(--transition);
+    margin-bottom: 19px;
 }
 
 .contact-info-item:hover {
